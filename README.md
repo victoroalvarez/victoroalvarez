@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Java and shell scripting.
 - 👯 I’m looking to collaborate on writing scripts for automation.
 - 🤔 I’m looking for help with writing scripts for automation.
-- 💬 Ask me about Unix-like systems like Arch, Fedora and Debian.
+- 💬 Ask me about Unix-like systems like Arch Linux and Debian.
 - 📫 How to reach me: victoroalvarez@protonmail.com | [victoroalvarez.com](victoroalvarez.com)
 - ⚡ Fun fact: I like film noir cinema.
