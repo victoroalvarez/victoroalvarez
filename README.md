@@ -6,7 +6,7 @@
 - 🔭 I'm currently available for internships and employment.
 - 🌱 I’m currently learning Web Development and Python.
 - 👯 I’m looking to collaborate on writing scripts for automation.
-- <!--
+<!--
 - 🤔 I’m looking for internships and employment.
 -->
 - 💬 Ask me about Unix-like systems like Arch Linux and Debian.
