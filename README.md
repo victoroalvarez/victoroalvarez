@@ -4,7 +4,9 @@
 - 🔭 I'm currently studying Computer Engineering at PUPR, Puerto Rico.
 - 🤔 I’m looking help writing scripts for automation.
 -->
+<!-- 
 - 🔭 I'm currently available for internships and employment.
+- -->
 - 🌱 I’m currently learning Web Development and Python.
 - 👯 I’m looking to collaborate on writing scripts for automation.
 - 💬 Ask me about Unix-like systems like Arch Linux and Debian.
