@@ -10,5 +10,5 @@
 - 🌱 I’m currently learning Web Development and Python.
 - 👯 I’m looking to collaborate on writing scripts for automation.
 - 💬 Ask me about Unix-like systems like Arch Linux and Debian.
-- 📫 How to reach me: victoroalvarez@protonmail.com | [victoroalvarez.com](victoroalvarez.com)
+- 📫 How to reach me: victoroalvarez@protonmail.com
 - ⚡ Fun fact: I like film noir cinema.
