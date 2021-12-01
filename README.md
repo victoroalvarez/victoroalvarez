@@ -7,8 +7,8 @@
 <!-- 
 - 🔭 I'm currently available for internships and employment.
 - -->
-- 🌱 I’m currently learning Web Development and Python.
+- 🌱 I’m currently learning Web Development and Linux.
 - 👯 I’m looking to collaborate on writing scripts for automation.
-- 💬 Ask me about Unix-like systems like Arch Linux and Debian.
+- 💬 Ask me about Unix-like systems like Fedora and Debian.
 - 📫 How to reach me: victoroalvarez@protonmail.com
 - ⚡ Fun fact: I like film noir cinema.
