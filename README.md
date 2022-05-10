@@ -8,7 +8,7 @@
 - 🔭 I'm currently available for internships and employment.
 - -->
 - 🌱 I’m currently learning Web Development and Linux.
-- ✍️ I currtently write and publish at [Medium.com/VictorOAlvarez](https://victoroalvarez.medium.com).
+- ✍️ I currently write and publish at [Medium.com/VictorOAlvarez](https://victoroalvarez.medium.com).
 - 🤝 I’m looking to collaborate on writing scripts for automation.
 - 🇵🇷 From Caguas, Puerto Rico.
 - 💬 Ask me about Unix-like operating-systems like Debian Linux.
