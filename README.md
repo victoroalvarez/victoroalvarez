@@ -7,9 +7,10 @@
 <!-- 
 - 🔭 I'm currently available for internships and employment.
 - -->
-- 🌱 I’m currently learning Web Development, Linux & command line coding.
-- ✍️ I currently write and publish at [Medium.com/VictorOAlvarez](https://victoroalvarez.medium.com).
-- 🤝 I’m looking to collaborate on writing shell scripts for automation.
+- 🔭 I currently work as a Full Stack Web Developer.
+- 🌱 I’m currently learning Backend Development, TALL Stack & command line coding.
+- ✍️ I currently write at [VictorAlvarez.xyz](https://victoralvarez.xyz)
+- 🤝 I’m looking to collaborate on coding shell scripts for automation.
 - :puerto_rico: From Caguas, Puerto Rico.
 - 💬 Ask me about Unix-like operating-systems like Debian Linux.
 - 📫 How to reach me: message me through Twitter IM [@victoroalvarez](https://twitter.com/victoroalvarez)
