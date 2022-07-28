@@ -9,7 +9,7 @@
 - -->
 - 🔭 I currently work as a Full Stack Web Developer.
 - 🌱 I’m currently learning Backend Development, TALL Stack & command line coding.
-- ✍️ I currently write at [VictorAlvarez.xyz](https://victoralvarez.xyz)
+- ✍️ I currently write at [victoroalvarez.hashnode.dev](https://victoroalvarez.hashnode.dev)
 - 🤝 I’m looking to collaborate on coding shell scripts for automation.
 - :puerto_rico: From Caguas, Puerto Rico.
 - 💬 Ask me about Unix-like operating-systems like Debian Linux.
