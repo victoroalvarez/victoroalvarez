@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning Backend Development.
 - ✍️ I currently write at [victoroalvarez.hashnode.dev](https://victoroalvarez.hashnode.dev)
 - 🤝 I’m looking to collaborate on coding shell scripts for automation.
-- :puerto_rico: From Caguas, Puerto Rico.
-- 💬 Ask me about Unix-like operating-systems like Debian Linux.
+- 💬 Ask me about Linux & Unix-like operating-systems.
 - 📫 How to reach me: message me through Twitter IM [@victoroalvarez](https://twitter.com/victoroalvarez)
 - ⚡ Fun fact: I like film noir cinema.
