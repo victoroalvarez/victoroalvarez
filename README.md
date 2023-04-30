@@ -8,7 +8,7 @@
 - 🔭 I'm currently available for internships and employment.
 - -->
 - 🔭 I currently work as a Web Developer.
-- 🌱 I’m currently learning Backend Development, TALL Stack & command line coding.
+- 🌱 I’m currently learning Backend Development.
 - ✍️ I currently write at [victoroalvarez.hashnode.dev](https://victoroalvarez.hashnode.dev)
 - 🤝 I’m looking to collaborate on coding shell scripts for automation.
 - :puerto_rico: From Caguas, Puerto Rico.
