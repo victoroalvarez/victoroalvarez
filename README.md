@@ -1,5 +1,5 @@
 ### Hi there 👋
-# - 🔭 I currently work as a Web Developer.
+- 🔭 I currently self-study computer science.
 - 🌱 Learning Django.
 - ✍️ Writing at [victoroalvarez.hashnode.dev](https://victoroalvarez.hashnode.dev)
 - 🤝 Looking to collaborate on coding shell scripts for automation.
