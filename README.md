@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I currently work as a Web Developer.
-- 🌱 Learning Backend Development.
+# - 🔭 I currently work as a Web Developer.
+- 🌱 Learning Django.
 - ✍️ Writing at [victoroalvarez.hashnode.dev](https://victoroalvarez.hashnode.dev)
 - 🤝 Looking to collaborate on coding shell scripts for automation.
 - 💬 Ask me about Linux & Unix-like operating-systems.
